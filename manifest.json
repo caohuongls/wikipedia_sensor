@@ -1,0 +1,12 @@
+{
+    "domain": "wikipedia_sensor",
+    "name": "Wikipedia ngẫu nhiên",
+    "documentation": "https://github.com/yourusername/your-repo",
+    "dependencies": [],
+    "codeowners": [],
+    "requirements": ["wikipedia-api","wikipedia"],
+    "version": "0.1",
+    "config_flow": true,
+    "iot_class": "cloud_polling",
+    "description": "A custom sensor for fetching data from Wikipedia."
+}
